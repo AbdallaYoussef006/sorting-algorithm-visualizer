@@ -90,7 +90,7 @@ Content-Type: application/json
 ---
 
 ## 📸 Preview
-"C:\Users\abdal\OneDrive\Pictures\Screenshots\Screenshot 2026-06-14 002904.png"
+
 
 ---
 
