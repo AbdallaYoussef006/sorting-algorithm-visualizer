@@ -90,7 +90,7 @@ Content-Type: application/json
 ---
 
 ## 📸 Preview
-
+![Concept](Sorting%20Algorithm%20Visualizer%20Concept.png)
 
 ---
 
