@@ -1,7 +1,15 @@
 # 📊 Sorting Algorithm Visualizer
 
 An **interactive full-stack web application** that animates and compares sorting algorithms in real time — built with Python Flask and vanilla JavaScript as a 2nd-semester CS project at Nile University.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 ---
+
 
 ## ✨ Features
 
